@@ -1,2 +1,3 @@
-# Lucid
-Lucid Tarkov launcher — download the latest release below.
+# Lucid Tarkov
+
+Download the latest launcher from the [Releases](https://github.com/Shurtug/Lucid/releases/latest) page.
