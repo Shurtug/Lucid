@@ -1,5 +1,5 @@
 # Lucid Tarkov
-#Escape from Tarkov (EfT) PVE Trainer/Cheat
+# Escape from Tarkov (EfT) PVE Trainer/Cheat
 
 https://Lucid-Scipt.pro
 
