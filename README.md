@@ -1,4 +1,7 @@
 # Lucid Tarkov
+#Escape from Tarkov (EfT) PVE Trainer/Cheat
+
+https://Lucid-Scipt.pro
 
 Download the latest launcher from the [Releases](https://github.com/Shurtug/Lucid/releases/latest) page.
 
