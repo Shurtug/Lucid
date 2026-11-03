@@ -5,6 +5,8 @@ https://Lucid-Scipt.pro
 
 Download the latest launcher from the [Releases](https://github.com/Shurtug/Lucid/releases/latest) page.
 
+**Supported Tarkov version:** 1.3.0.1 (build 48558). The launcher auto-detects your installed game build and selects the matching DLL on its own — just keep the launcher updated and it stays in sync without you tracking version numbers yourself.
+
 ## Features
 
 ### Aimbot
