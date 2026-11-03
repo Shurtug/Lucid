@@ -3,7 +3,7 @@
 
 https://Lucid-Scipt.pro
 
-Download the latest launcher from the [Releases](https://github.com/Shurtug/Lucid/releases/latest) page.
+Download the latest launcher from the [Releases](https://github.com/Shurtug/Lucid/releases/latest) page. Join the [Discord](https://discord.gg/Rgu62VxC2q) for updates and support.
 
 **Supported Tarkov version:** 1.3.0.1 (build 48558). The launcher auto-detects your installed game build and selects the matching DLL on its own — just keep the launcher updated and it stays in sync without you tracking version numbers yourself.
 
@@ -65,4 +65,4 @@ Download the latest launcher from the [Releases](https://github.com/Shurtug/Luci
 
 ## Support
 
-Report bugs via the in-app Bug Description field, or reach out through Discord.
+Report bugs via the in-app Bug Description field, or reach out through [Discord](https://discord.gg/Rgu62VxC2q).
